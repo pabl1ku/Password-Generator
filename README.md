@@ -4,25 +4,8 @@
 
 
 
-## 📃 Explanation
+## 📃 Explicación
 
-I have created this password generator using **HTML**, **CSS** and **Javascript**.
-
-The generator is simple, I created the HTML code, applied some styles and Javascript came into play.
-
-This generator allows us to choose options for the creation of our password, these options are the following:
-
-- **Password lenght**: It allows us to choose a value between 4 and 20.
-
-- **Include uppercase letters**
-
-- **Include lowercase letters**
-
-- **Include numbers**
-
-- **Include symbols**
-
-Once we have generated our password, we have the option to copy it.
-
-⚠ We can choose the options we want, combine all of them, or just choose one, the application allows you to freely choose the options you want and generate as many passwords as you want.
+Este proyecto es un generador de contraseñas desarrollado en JS, diseñado para crear contraseñas seguras y personalizables.
+El generador ofrece varias opciones para personalizar la contraseña generada, asegurando que se adapte a las necesidades específicas de seguridad de cada usuario.
 
