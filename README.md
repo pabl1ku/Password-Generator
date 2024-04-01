@@ -1,6 +1,6 @@
 <h1> 🔐 Password Generator </h1>
 
-![image](https://github.com/pabl1ku/Password-Generator/assets/115459058/6f51656b-f25d-4356-85d0-0333f0e7cbe6)
+![image](https://github.com/pabl1ku/Password-Generator/assets/115459058/722dd933-a76b-4384-b125-c58115d280e4)
 
 
 
